@@ -45,7 +45,8 @@ body{
 
 .gameOver{
     position: relative;
-    top:53px;
+    top:45px;
+    color: #ffffff;
     font-size: 53px;
     font-weight:bold;
     text-align: center; 
@@ -59,7 +60,7 @@ body{
     position: absolute;
     right: 45px;
     top: 31px;
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 10px;
     font-family: 'Ubuntu', sans-serif;
     border-radius: 10px;
