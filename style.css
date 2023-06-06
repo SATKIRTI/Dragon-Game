@@ -47,6 +47,7 @@ body{
     position: relative;
     top:63px;
     font-size: 53px;
+    font-weight:bold;
     text-align: center; 
     font-family: 'Ubuntu', sans-serif;
 }
