@@ -27,7 +27,7 @@ body{
 
 .obstacle{
     width: 166px;
-    height: 113px;
+    height: 125px;
     background-image: url(dragon.png);
     background-size: cover;
     position: absolute;
