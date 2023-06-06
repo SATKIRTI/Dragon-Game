@@ -53,9 +53,9 @@ body{
 }
 
 #scoreCont{
-    font-size: 25px;
-    color: #54212f;
-    font-weight: bold;
+    font-size: 35px;
+    color: #ffffff;
+    font-weight: bolder;
     position: absolute;
     right: 45px;
     top: 31px;
